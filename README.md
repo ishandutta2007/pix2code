@@ -165,3 +165,10 @@ Even assuming a mature version of pix2code able to generate GUI code with 100% a
 * [NLP Highlights](https://soundcloud.com/nlp-highlights/17a) (podcast)
 * [Data Skeptic](https://dataskeptic.com/blog/episodes/2017/pix2code) (podcast)
 * Read comments on [Hacker News](https://news.ycombinator.com/item?id=14416530)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
